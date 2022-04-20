@@ -20,6 +20,7 @@ Input:
   - *pandas_db*: df, pandas dataframe with the variables to plot
   - *x_axis*: str, column name to plot in x axis
   - *y_axis*: str, column name to plot in y axis
+
 Output:
   - If *manual=True*: check the available options for that method
   - If *manual=False* (default option): plot from selected method
