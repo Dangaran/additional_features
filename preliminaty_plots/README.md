@@ -1,4 +1,4 @@
-# Preliminary plots
+# Description
 
 Script to import the class preliminary_plots. With this class you can make simple plotnine plots for your DataFrames.
 
